@@ -98,3 +98,9 @@ Ultimately, this dashboard transforms HR from a reactive function into a strateg
 * Revealed actionable insights around employee retention risks, performance disparities, and pay inequities.
 * Empowered HR teams to tailor recruitment, training, and compensation policies based on real data.
 * Strengthened the organization’s commitment to diversity, equity, and inclusion through ongoing measurement and transparency.
+
+## 📸 Dashboard Screenshots
+Here are some highlights from the dashboard that showcase its clean design and interactive features:
+
+![image](https://github.com/user-attachments/assets/91bfbded-2e57-466f-a3bd-02f4e2f826a3)
+![image](https://github.com/user-attachments/assets/903f18e9-f513-452a-bbb9-323572828d09)
